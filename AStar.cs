@@ -6,7 +6,6 @@ public class Node
 {
     #if GOAL_ORIENTED_ACTION_PLANNING
     public GoapAction action;
-    public GoapGoal goal;
     #endif
     
     public float gCost;
